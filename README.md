@@ -1,9 +1,6 @@
+# 👨‍⚖️ Ignorance of law is now an excuse 
 
-<div style="text-align: center; font-size: 2rem; font-weight: bold; color: #dc1a22; margin-bottom: 2rem;">
-   # Ignorance of law is now an excuse 📜
-</div>
-
-# GST Section 11A Analysis 📜
+## GST Section 11A Analysis 📜
 
 This repository, developed by **Beema's Fincon**, provides an interactive guide for understanding **Section 11A of the CGST Act, 2017**, which offers relief to small and micro-scale businesses that unintentionally did not collect GST on their sales due to common practices.
 
